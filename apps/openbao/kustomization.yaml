@@ -4,3 +4,6 @@ resources:
 - helmrelease.yaml
 - helmrepository.yaml
 - namespace.yaml
+- clusterrole.yaml
+- clusterrolebinding.yaml
+- serviceaccount.yaml
